@@ -9,23 +9,10 @@
 
 Case 1 When  both switches [Button Sensor and Heater are closed ]then LED are in ON State 
 
-![1](C:\Users\Aravinda Harithsa\Desktop\1.JPG)
+![1](https://github.com/Aravinda-Harithsa/259922_embedded/blob/main/simulation/1.JPG?raw=true)
 
 
 
 Case 2:  When  both switches [Button Sensor and Heater are Open ]then LED are in OFF State 
 
-![2](C:\Users\Aravinda Harithsa\Desktop\2.JPG)
-
-
-
-**Different PWM Settings** 
-
-
-
-20%
-
-40%
-
-60%
-
+![2](https://github.com/Aravinda-Harithsa/259922_embedded/blob/main/simulation/2.JPG?raw=true)

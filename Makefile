@@ -2,7 +2,7 @@ PROJ_NAME = Ltts_Embedded
 ELFFILE = $(PROJ_NAME).elf
 BUILD_DIR = Build
 
-SRC = project_main.c\
+SRC = Main.c\
 src/activity1.c\
 src/activity2.c\
 src/activity3.c\
